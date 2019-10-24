@@ -1,0 +1,1 @@
+insert into student values(3,"meerza","shake","ece")

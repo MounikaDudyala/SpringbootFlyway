@@ -1,0 +1,1 @@
+insert into student values(7,"kiran","nayak","mech")

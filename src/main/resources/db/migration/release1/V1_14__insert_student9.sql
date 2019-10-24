@@ -1,0 +1,1 @@
+insert into student values(9,"fgdhf","tryhf","ece")

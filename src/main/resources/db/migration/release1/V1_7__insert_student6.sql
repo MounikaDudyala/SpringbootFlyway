@@ -1,0 +1,1 @@
+insert into student values(6,"vicky","kreez","mech")

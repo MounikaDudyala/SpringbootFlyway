@@ -1,0 +1,1 @@
+update student set dept="mech" where id=4
