@@ -1,0 +1,1 @@
+update student set lastname="kariny" where id=10
