@@ -1,0 +1,1 @@
+insert student values(10,"kesar","kari","ece")
